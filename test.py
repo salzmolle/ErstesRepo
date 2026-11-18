@@ -1,1 +1,0 @@
-print("Ds ist mein erstes Reposetory")
